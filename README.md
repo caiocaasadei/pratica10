@@ -1,4 +1,4 @@
 # pratica10
 Utiliza o template em react (frontend) e python (backend) para desenvolver uma tela de CRUD  de um cadastro básico para atender o projeto do trabalho final da disciplina. 
 
-- Foi desenvolvido o CRUD de Evento com nome e ID do mesmo, como usado no cargo. Para caso, o botão só irá aparecer somente para o usuário administrador.
+- Foi desenvolvido o CRUD de Evento com nome e ID do mesmo, como usado no cargo. Para caso, o botão de cadastrar evento só irá aparecer somente para o usuário administrador.
