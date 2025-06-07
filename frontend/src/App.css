@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  /* Para esticar o site em toda tela :*/
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 0rem;
+  text-align: center;
+}

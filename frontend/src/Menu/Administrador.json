@@ -1,0 +1,5 @@
+[
+  { "label": "Tela 1 Administrador", "rota": "/Tela1Administrador" },
+  { "label": "Tela 2 Administrador", "rota": "/Tela2Administrador" },
+   { "label": "Cadastrar Evento", "rota": "/CadastrarEvento" }
+]

@@ -1,0 +1,4 @@
+[
+  { "label": "Tela 1 Gestor", "rota": "/Tela1Gestor" },
+  { "label": "Tela 2 Gestor", "rota": "/Tela2Gestor" }
+]
